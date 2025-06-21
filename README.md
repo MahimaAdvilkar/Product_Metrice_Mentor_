@@ -4,6 +4,8 @@ MetricMentor is a beginner-friendly Python-based app designed to simulate produc
 
 ---
 
+![MetricMentor Cover](<Cover.png>)
+
 ## 📘 About the Project
 
 MetricMentor is an interactive tool that helps users:
@@ -39,6 +41,14 @@ As someone preparing for Product Analyst roles, I wanted to:
 * 🌐 Basic Streamlit integration for interactive frontend
 
 ---
+## 📷 Project Preview
+
+> CLI Version:
+![CLI Preview](<Image 3.png>)
+
+> Streamlit Version:
+![Streamlit Preview](<Image 1.png>)
+
 
 ## 📆 Built With
 
